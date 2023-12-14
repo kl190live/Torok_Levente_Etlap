@@ -27,6 +27,7 @@
 				<DataGridTextColumn Header="Név" Binding="{Binding Name}"/>
 				<DataGridTextColumn Header="Leírás" Binding="{Binding description}"/>
 				<DataGridTextColumn Header="Ár" Binding="{Binding price}"/>
+				
 			</DataGrid.Columns>
 		</DataGrid>
 		
